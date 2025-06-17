@@ -56,7 +56,54 @@ This project streamlines rental operations with features including:
 This project requires the following dependencies:
 
 - **Programming Language:** PHP
-- **Package Manager:** Composer
+- **XAMMP**
+
+### Dashboard Example
+Here is an example of the SmartCar-Integrated-Car-Rental-Management-System dashboard:
+
+### 1. **Fleet Management Dashboard**
+   This dashboard provides a visual representation of the available vehicles, their usage, and booking statuses.
+
+   ![image](https://github.com/user-attachments/assets/db99dd95-de71-4f54-bb52-fc9dff25a18c)
+
+### 2. **Booking Dashboard**
+   Displays the current status of bookings, including active, completed, and cancelled bookings.
+
+   ![Screenshot 2025-06-17 184716](https://github.com/user-attachments/assets/4d4e2224-3e0a-49c3-b5b8-212252009300)
+
+### 3. **Customer Dashboard**
+   A customer overview with details on booking history, transaction count, and other relevant customer information.
+
+   ![Screenshot 2025-06-17 184708](https://github.com/user-attachments/assets/789fadef-9b99-40c5-b5de-787662c97b01)
+
+### 4. **Staff Dashboard**
+   This dashboard provides an overview of staff activities, including current tasks, performance, and employee-specific data. It allows the management to track staff performance and assign tasks efficiently.
+
+   ![Screenshot 2025-06-17 184708](https://github.com/user-attachments/assets/789fadef-9b99-40c5-b5de-787662c97b01)
+
+### 5. **Transactions Dashboard**
+   This dashboard gives a detailed overview of all transactions, including booking payments, refunds, and transaction history. It is designed to track financial data related to rentals and payments.
+
+   ![Screenshot 2025-06-17 184745](https://github.com/user-attachments/assets/4d2132fe-7aa7-4d1f-a02d-d0dac1e09680)
+
+### 6. **Reporting Dashboard**
+   The reporting dashboard provides comprehensive reports on key business metrics such as revenue, number of transactions, and other critical business data. It helps managers make data-driven decisions.
+
+   ![Screenshot 2025-06-17 184801](https://github.com/user-attachments/assets/49a73b19-4984-4da2-9583-783f735755b7)
+
+### 7. **Car Dashboard**
+   This dashboard offers detailed insights into the car fleet, such as car availability, current bookings, and car maintenance status. It helps track and manage each vehicle in the fleet efficiently.
+
+   ![Screenshot 2025-06-17 184848](https://github.com/user-attachments/assets/a1c9ee01-b069-48f7-a808-11c213593825)
+
+### 8. **Car Catalog**
+   The car catalog dashboard displays all vehicles in the fleet, including details such as make, model, availability, and rental price. It allows customers and staff to browse available cars for rental.
+
+   ![Screenshot 2025-06-17 184903](https://github.com/user-attachments/assets/10145735-905a-49e0-a2ff-bf27859e0932)
+
+These dashboards are designed to provide real-time information and simplify the management of rental operations.
+
+
 
 ### Installation
 
