@@ -60,8 +60,6 @@ This project requires the following dependencies:
 
 ### Installation
 
-Build SmartCar-Integrated-Car-Rental-Management-System from the source and install dependencies:
-
 1. **Clone the repository:**
 
     ```sh
@@ -74,33 +72,26 @@ Build SmartCar-Integrated-Car-Rental-Management-System from the source and insta
     ❯ cd SmartCar-Integrated-Car-Rental-Management-System
     ```
 
-3. **Install the dependencies:**
+3. **Download the SQL database file**  
 
-**Using [composer](https://www.php.net/):**
+4. **Import the SQL file into your MySQL database:**
 
-```sh
-❯ composer install
-```
+    ```sh
+    ❯ mysql -u username -p database_name < your-database-file.sql
+    ```
 
-### Usage
+5. **Turn on the Apache and MySQL using XAMMP**
 
-Run the project with:
+6. **Start the PHP built-in server:**
 
-**Using [composer](https://www.php.net/):**
 
-```sh
-php {entrypoint}
-```
+    ```sh
+    ❯ php -S localhost:8000
+    ```
 
-### Testing
+    Server will run on `http://localhost:8000`, and you can access it using browser.
 
-Smartcar-integrated-car-rental-management-system uses the {__test_framework__} test framework. Run the test suite with:
-
-**Using [composer](https://www.php.net/):**
-
-```sh
-vendor/bin/phpunit
-```
+---
 
 ---
 
