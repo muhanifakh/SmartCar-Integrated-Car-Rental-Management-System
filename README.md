@@ -79,7 +79,8 @@ Here is an example of the SmartCar-Integrated-Car-Rental-Management-System dashb
 ### 4. **Staff Dashboard**
    This dashboard provides an overview of staff activities, including current tasks, performance, and employee-specific data. It allows the management to track staff performance and assign tasks efficiently.
 
-   ![Screenshot 2025-06-17 184708](https://github.com/user-attachments/assets/789fadef-9b99-40c5-b5de-787662c97b01)
+   ![Screenshot 2025-06-17 184700](https://github.com/user-attachments/assets/1494ff34-99ef-47f2-95bf-eadf6ff95f49)
+
 
 ### 5. **Transactions Dashboard**
    This dashboard gives a detailed overview of all transactions, including booking payments, refunds, and transaction history. It is designed to track financial data related to rentals and payments.
